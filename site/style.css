@@ -1,0 +1,10 @@
+:root {font-family:Arial,Helvetica,sans-serif;color:#172339;background:#f4f7fb}
+*{box-sizing:border-box} body{margin:0;padding:28px}
+.container{max-width:850px;margin:auto;background:white;padding:36px;border-radius:14px;box-shadow:0 12px 38px #182d421a}
+h1{font-size:2.3rem;margin:0 0 12px}h2{font-size:1.3rem;margin:0 0 10px;color:#173c79}
+.eyebrow{font-size:.75rem;letter-spacing:.14em;font-weight:700;color:#4776ba}
+.contact{line-height:1.6}a{color:#2366be}
+.download{display:inline-block;text-decoration:none;padding:11px 17px;background:#1c57a7;color:white;border-radius:8px;margin:12px 0}
+section{border-top:1px solid #e2e9f1;margin-top:22px;padding-top:20px}section p{line-height:1.7}
+footer{border-top:1px solid #e2e9f1;margin-top:28px;padding-top:20px;color:#526478;font-size:.92rem}
+@media(max-width:600px){body{padding:12px}.container{padding:20px}h1{font-size:1.7rem}}
